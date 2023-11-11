@@ -1,0 +1,22 @@
+body {
+    background-color: #FFF5EE;
+}
+
+nav.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+nav.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+nav.scrollmenu a:hover {
+  background-color: #777;
+}
